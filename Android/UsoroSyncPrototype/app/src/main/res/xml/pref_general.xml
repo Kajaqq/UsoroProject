@@ -1,0 +1,23 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="share_switch"
+        android:summary="@string/share_summary"
+        android:title="@string/share_title" />
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="clipboard_switch"
+        android:summary="@string/enable_clipboard_summary"
+        android:title="@string/clipboard_title" />
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="notif_switch"
+        android:summary="@string/enable_notification_summary"
+        android:title="@string/notification_title" />
+
+
+
+</PreferenceScreen>
