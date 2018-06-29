@@ -1,0 +1,4 @@
+troche materiałów dotyczących projektowania systemów na armach korzystających z FSMC
+
+http://www.compel.ru/wordpress/wp-content/uploads/2013/11/2_SDRAM.pdf
+https://www.st.com/content/ccc/resource/technical/document/application_note/27/bf/f5/e8/d7/82/44/6f/CD00200423.pdf/files/CD00200423.pdf/jcr:content/translations/en.CD00200423.pdf
