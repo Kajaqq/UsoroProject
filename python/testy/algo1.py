@@ -18,7 +18,11 @@ def generowanie_kilku_losowych_bajtow():
     losowe = [] #null
     i = 0
     while(i != 4):
-        losowe.append(chr(random.randint(33, 126)))
+        if(random.randint(0,1) == 1):
+            a = random.randint(48,57)
+        else:
+            a = random.randint(97, 102)
+        losowe.append(chr(a))
         i += 1
     print("Wygenerowane losowe bajty: " + ''.join(losowe) + "\n")
     return(''.join(losowe))
